@@ -1,0 +1,8 @@
+{
+	"name": "Racoon-Discord-Bot",
+	"version": "1.0.0",
+	"dependencies": {
+		"@discordjs/opus": "github:discordjs/opus",
+		"discord.js": "^12.4.1"
+	}
+}

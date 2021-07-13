@@ -1,0 +1,10 @@
+Things to add :
+$tactics : randomly answers one of the 3 tactics
+$howgay returns a random int between 0 and 100 and keeps it for 24h (or until next server reset)
+$howtoxic returns a random int between 0 and 100 and keeps it for 24h (or until next server reset)
+$howlame returns a random int between 0 and 100 and keeps it for 24h (or until next server reset)
+$analyze (does previous 3 howgay/howtoxic/howlame and outputs the global analysis)
+$topgay returns who has the highest gay rating that day
+$toptoxic returns who has the highest gay rating that day
+$toplame returns who has the highest gay rating that day
+TRU and HOT triggers

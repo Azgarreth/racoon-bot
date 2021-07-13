@@ -1,0 +1,9 @@
+{
+	"carl": {
+		"0": {
+			"type": "audio",
+			"file": "./resources/audio/carl_trimmed.mp3",
+			"message": "Coooraal! Coraaaaalll! Coooorrrraaaaaaaaaalllll!"
+		}
+	}
+}
